@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sadiuchiha
-- 👀 I’m interested in coding in Java, Javascript and a bit of Python 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open projects
-- 📫 How to reach me? Email me at sadiuchiha@gmail.com
+👋 Hi, I’m MD Masudur Rahman, you can call me Sadi
+👀 I’m interested in coding in Java, Javascript and Python 
+🌱 I love doing big projects
+💞️ I’m looking to collaborate on open projects
+📫 Reach out for at sadiuchiha@gmail.com
+
+Current ongoing project: TAS
 
 <!---
 sadiuchiha/sadiuchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
