@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open projects
 - 📫 Reach out for me at sadiuchiha@gmail.com
 
-Projects can be in any size but they are not unsolveable
+Projects can be in any size but the problems which arise are not unsolveable
 
 Current ongoing project: Personality Survey
 
