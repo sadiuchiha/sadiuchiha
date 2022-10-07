@@ -6,6 +6,6 @@
 
 Projects can be in any size but the problems which arise are not unsolveable
 
-Current ongoing project: Personality Survey
+Current ongoing project: Survey Maker
 
 
