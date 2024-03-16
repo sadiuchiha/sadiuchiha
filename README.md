@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: left;">
     <h1><font size="+2" face="Verdana">Welcome to My Profile</font></h1>
     <blockquote>
         <p>👋 Hi, I'm MD Masudur Rahman, but you can call me Sadi. I'm a passionate coder with expertise in Java, Python, HTML, CSS, and JavaScript. I thrive on tackling big projects and solving complex problems.</p>
