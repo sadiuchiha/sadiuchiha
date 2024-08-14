@@ -7,14 +7,14 @@
     </blockquote>
     <h2><font size="+1" face="Arial">Skills:</font></h2>
     <blockquote>
-        <p>- Languages: Java, Python, Kotlin, HTML, CSS, JavaScript, Assembly (ASM)</p>
+        <p>- Languages: Java, Python, Kotlin, C#, HTML, CSS, JavaScript, Assembly (ASM)</p>
         <p>- Database: MySQL, Firebase, MongoDB, CouchDB</p>
         <p>- Cloud Platforms: Google Cloud Platform, AWS, Firebase</p>
         <p>- Version Control: GitHub, Maven</p>
         <p>- Methodologies: SDLC, Agile, Scrum, REST API, CI/CD</p>
         <p>- Platforms: Google Colab, PyCharm, Android Studio, Eclipse</p>
         <p>- Deployment Software: Docker, GCP, Azure Cloud</p>
-        <p>- Structure Control: Data Structure Management, Sorting, Threading, Web Scraping</p>
+        <p>- Structure Control: Data Structure Management, Sorting, Threading, Parallel Pipeline processing, Web Scraping, API management, Backend under the hood Automation and many more.</p>
     </blockquote>
     <h2><font size="+1" face="Arial">Education:</font></h2>
     <blockquote>
@@ -31,8 +31,8 @@
     <h2><font size="+1" face="Arial">Achievements:</font></h2>
     <blockquote>
         <p>- Implemented auto trades in WealthSimple website</p>
-        <p>- Created a machine learning model for stock trading</p>
-        <p>- Developed applications for trade control and stock chart viewing</p>
+        <p>- Created machine learning model for stocks trading</p>
+        <p>- Developed automated applications for trading like placing cancelling orders and stock chart viewing</p>
     </blockquote>
     <h2><font size="+1" face="Arial">Other Projects:</font></h2>
     <blockquote>
