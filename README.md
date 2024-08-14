@@ -1,7 +1,7 @@
 <div style="text-align: left;">
     <h1><font size="+2" face="Verdana">Welcome to My Profile</font></h1>
     <blockquote>
-        <p>👋 Hi, I'm MD Masudur Rahman, but you can call me Sadi. I'm a passionate coder with expertise in Java, Python, HTML, CSS, and JavaScript. I thrive on tackling big projects and solving complex problems.</p>
+        <p>👋 Hi, I'm MD Masudur Rahman, but you can call me Sadi. I'm a passionate coder with expertise in Java, Python, C#, Kotlin, HTML, CSS, and JavaScript. I thrive on tackling big projects and solving complex problems.</p>
         <p>🌱 I'm currently seeking opportunities to collaborate on open projects and contribute to innovative solutions.</p>
         <p>💞️ Reach out to me at <a href="mailto:sadi123mrahman@gmail.com">sadi123mrahman@gmail.com</a> for project inquiries or collaborations!</p>
     </blockquote>
